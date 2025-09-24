@@ -29,5 +29,5 @@ I'm always open to connect, collaborate, and learn with fellow tech enthusiasts.
 
 ---
 
-*✨ “The journey of a thousand miles begins with a single step.” – Lao Tzu*
+*✨ “The journey of a thousand miles begins with a single step.” – *
 
