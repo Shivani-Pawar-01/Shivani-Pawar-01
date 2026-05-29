@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Shivani Pawar</h1>
 
 <h3 align="center">
@@ -116,15 +115,7 @@
 
 ---
 
-# 📌 How To Setup
 
-1. Create a repository with your GitHub username.
-2. Example:
-   - Username: `shivani123`
-   - Repository: `shivani123`
-3. Add `README.md`
-4. Paste this code.
-5. Replace:
    - `YOUR_USERNAME`
    - `YOUR_LINKEDIN`
    - `YOUR_INSTAGRAM`
