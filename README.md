@@ -1,67 +1,104 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:000000&height=250&section=header&text=SHIVANI%20PAWAR&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20%7C%20AWS%20Learner&descAlignY=60&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,35:7F1D1D,70:DC2626,100:0D1117&text=SHIVANI%20PAWAR&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DEVOPS%20ENGINEER%20•%20CLOUD%20ARCHITECT%20•%20INFRASTRUCTURE%20BUILDER&descAlignY=60&descSize=18"/>
 
 </div>
-
----
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Welcome+To+My+Digital+World;Cloud+%26+DevOps+Engineer+In+Progress;Building+Dreams+Into+Reality;Learning+Something+New+Everyday;Future+Startup+Founder"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=INITIALIZING+DEVOPS+ENVIRONMENT...;CONNECTING+TO+CLOUD+INFRASTRUCTURE...;KUBERNETES+CLUSTER+STATUS+%3A+ACTIVE;CI%2FCD+PIPELINES+RUNNING+SUCCESSFULLY"/>
 
 </div>
 
 ---
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
+<img align="right" alt="DevOps" width="420" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJtYm9tbmY5c3k4MnBjc3JlNWJ4dWQ3N2M4YjBlcmNhZnBhZnE2YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<img align="right" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
+# ```bash
+whoami
+--- 
 Name: Shivani Pawar
-Education: MCA Student
-Background: Commerce Graduate
-Focus:
+Role: DevOps Engineer
+Focus: Cloud Infrastructure & Automation
+
+Specialization:
   - AWS
+  - Azure
+  - GCP
+  - Kubernetes
+  - Docker
   - Terraform
-  - Linux
-  - DevOps
-  - Cloud Deployment
+  - Jenkins
+  - GitHub Actions
+  - GitLab CI/CD
+  - Linux Administration
+  - Monitoring & Observability
+  - Python Automation
+  - Shell Scripting
 
-Interests:
-  - Technology
-  - Startups
-  - Branding
-  - Business Growth
-  - Automation
+Mission:
+  Building scalable, automated, production-grade infrastructure.
 
-Goal: Build impactful startup in future
+Status:
+  Learning. Building. Scaling. Repeating.
+``'
+# ```bash
 
-
-# ⚡ Tech Arsenal
+cat infrastructure_stack.yaml
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,linux,git,github,html,css,php,mysql,python,bash,vscode"/>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,jenkins,git,github,gitlab,linux,bash,python,vscode"/>
 
 </div>
 
 ---
 
-# 🚀 DevOps & Cloud Tools
+# ```bash
+kubectl get engineer-status
 
 <div align="center">
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge\&logo=terraform\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+| SYSTEM                 | STATUS         |
+| ---------------------- | -------------- |
+| Cloud Infrastructure   | 🟢 Operational |
+| CI/CD Pipelines        | 🟢 Running     |
+| Monitoring Systems     | 🟢 Active      |
+| Automation Scripts     | 🟢 Optimized   |
+| Kubernetes Cluster     | 🟢 Healthy     |
+| Terraform Provisioning | 🟢 Stable      |
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# ```bash
+
+cat deployment_pipeline.sh
+
+
+<div align="center">
+
+```mermaid
+flowchart LR
+
+A[Developer Push] --> B[GitHub/GitLab]
+B --> C[Jenkins Pipeline]
+C --> D[Docker Build]
+D --> E[Container Registry]
+E --> F[Kubernetes Deploy]
+F --> G[Monitoring with Datadog]
+G --> H[Production Environment]
+````
+
+</div>
+
+---
+
+# ```bash
+
+terraform plan
+
 
 <div align="center">
 
@@ -73,77 +110,108 @@ Goal: Build impactful startup in future
 
 ---
 
-# 💻 Most Used Languages
+# ```bash
+docker stats
 
 <div align="center">
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+# ```bash
+
+monitoring --live
+
+
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=ff0000&line=dc2626&point=ffffff&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# ```bash
+sudo engineer --achievements
+
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=12"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# ```bash
+
+snake --contributions
+
+
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg"/>
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+# ```bash
+systemctl status devops-engineer
+
+
+
++ Multi-Cloud Engineering
++ Infrastructure as Code
++ CI/CD Automation
++ Kubernetes Orchestration
++ Cloud Monitoring
++ Linux Administration
++ Python Automation
++ Production Deployment
+
+
+# ```bash
+
+cat current_mission.txt
+
+
+Building scalable cloud systems.
+Automating infrastructure.
+Creating production-ready deployments.
+Learning continuously.
+Engineering with discipline.
+
+# ```bash
+
+connect --social
+
 
 <div align="center">
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/YOUR_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 🎧 Currently Vibing To
-
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31xxxxxxxx&cover_image=true&theme=novatorem"/>
-
-</div>
-
----
-
-# 👀 Visitor Counter
+# ```bash
+visitor_count --check
 
 <div align="center">
 
@@ -153,43 +221,19 @@ Goal: Build impactful startup in future
 
 ---
 
-# ✨ Developer Quote
-
 <div align="center">
 
-### “Consistency beats motivation.”
+```txt
+"Automate everything. Scale fearlessly."
+```
 
 </div>
 
 ---
 
-# 🔥 Current Mission
-
-+ Learning Cloud & DevOps
-+ Building Deployment Projects
-+ Improving English Communication
-+ Preparing For IT Career
-+ Future Entrepreneur Journey
-
-
-# 🛠 Setup Instructions
-
-# Create repository with your GitHub username
-# Example:
-# username -> shivani123
-# repository -> shivani123
-
-# Add README.md
-# Paste this code
-# Replace:
-# YOUR_USERNAME
-# YOUR_LINKEDIN
-# YOUR_INSTAGRAM
-# YOUR_EMAIL
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0D1117,35:7F1D1D,70:DC2626,100:0D1117"/>
 
 </div>
 ```
