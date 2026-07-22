@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:000000&height=250&section=header&text=SHIVANI%20PAWAR&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20%7C%20AWS%20Learner&descAlignY=60&descSize=18"/>
@@ -19,7 +18,6 @@
 
 <img align="right" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-```yaml
 Name: Shivani Pawar
 Education: MCA Student
 Background: Commerce Graduate
@@ -38,7 +36,6 @@ Interests:
   - Automation
 
 Goal: Build impactful startup in future
-````
 
 ---
 
@@ -169,19 +166,15 @@ Goal: Build impactful startup in future
 
 # 🔥 Current Mission
 
-```diff
 + Learning Cloud & DevOps
 + Building Deployment Projects
 + Improving English Communication
 + Preparing For IT Career
 + Future Entrepreneur Journey
-```
 
----
 
 # 🛠 Setup Instructions
 
-```bash
 # Create repository with your GitHub username
 # Example:
 # username -> shivani123
@@ -194,9 +187,6 @@ Goal: Build impactful startup in future
 # YOUR_LINKEDIN
 # YOUR_INSTAGRAM
 # YOUR_EMAIL
-```
-
----
 
 <div align="center">
 
