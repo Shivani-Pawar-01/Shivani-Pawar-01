@@ -1,196 +1,247 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:000000&height=250&section=header&text=SHIVANI%20PAWAR&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20%7C%20AWS%20Learner&descAlignY=60&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,22,24,30&text=SHIVANI%20PAWAR&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=DevOps%20Engineer%20•%20Cloud%20Engineer%20•%20Automation%20Enthusiast&descAlignY=60"/>
 
 </div>
-
----
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Welcome+To+My+Digital+World;Cloud+%26+DevOps+Engineer+In+Progress;Building+Dreams+Into+Reality;Learning+Something+New+Everyday;Future+Startup+Founder"/>
+# 👋 Hello, I'm Shivani Pawar
+
+### DevOps Engineer • Cloud Engineer • Infrastructure Automation • CI/CD • Kubernetes
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1200&center=true&vCenter=true&width=950&lines=Welcome+to+my+GitHub+Profile;Building+Reliable+Cloud+Infrastructure;Automating+Everything+Possible;Linux+%7C+AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Jenkins+%7C+GitHub+Actions;Always+Learning+Something+New+🚀"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Shivani-Pawar-01&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Shivani-Pawar-01?logo=github&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/Shivani-Pawar-01?affiliations=OWNER&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
+# 💻 Terminal
 
-<img align="right" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+```console
+shivani@devops:~$ whoami
 
-Name: Shivani Pawar
-Education: MCA Student
-Background: Commerce Graduate
-Focus:
-  - AWS
-  - Terraform
-  - Linux
+Name        : Shivani Pawar
+
+Role        : DevOps Engineer
+
+Location    : Pune, Maharashtra, India
+
+Education   : Bachelor of Computer Applications
+
+Current     : DevOps Engineer Intern @ Hisan Labs Pvt. Ltd.
+
+Focus       : Cloud Infrastructure
+              Kubernetes
+              Automation
+              Infrastructure as Code
+              CI/CD Pipelines
+
+Status      : Looking for Full-Time DevOps Engineer Opportunities
+
+Mission     : Build scalable infrastructure that is automated,
+              secure, reliable and production-ready.
+```
+
+---
+
+# 👩 About Me
+
+```yaml
+name: Shivani Pawar
+
+role:
+  DevOps Engineer
+
+education:
+  Bachelor of Computer Applications
+
+experience:
+  DevOps Engineer Intern
+  Hisan Labs Private Limited
+
+passion:
+  - Cloud Computing
   - DevOps
-  - Cloud Deployment
-
-Interests:
-  - Technology
-  - Startups
-  - Branding
-  - Business Growth
   - Automation
+  - Infrastructure Engineering
 
-Goal: Build impactful startup in future
+currently_working_on:
+  - Kubernetes
+  - AWS Infrastructure
+  - CI/CD Automation
+  - Docker
+  - Terraform
+  - Monitoring
 
----
+goal:
+  Become a highly skilled Cloud & DevOps Engineer capable
+  of designing scalable, secure and production-ready systems.
 
-# ⚡ Tech Arsenal
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,linux,git,github,html,css,php,mysql,python,bash,vscode"/>
-
-</div>
-
----
-
-# 🚀 DevOps & Cloud Tools
-
-<div align="center">
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge\&logo=terraform\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
-
-</div>
+motto:
+  "Automate what can be automated.
+   Monitor what matters.
+   Learn every single day."
+```
 
 ---
 
-# 📊 GitHub Analytics
+# 🚀 My Journey
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
-
----
-
-# 💻 Most Used Languages
-
-<div align="center">
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&hide_border=true"/>
-
-</div>
+```text
+BCA Graduate
+      │
+      ▼
+Linux Administration
+      │
+      ▼
+AWS Cloud
+      │
+      ▼
+Git & GitHub
+      │
+      ▼
+Docker
+      │
+      ▼
+CI/CD Automation
+      │
+      ▼
+Terraform
+      │
+      ▼
+Kubernetes
+      │
+      ▼
+Monitoring & Observability
+      │
+      ▼
+DevOps Engineer
+```
 
 ---
 
-# 🐍 Contribution Snake
+# 📖 My Story
 
-<div align="center">
+I am **Shivani Pawar**, a passionate DevOps Engineer with a strong interest in Cloud Computing, Infrastructure Automation, and Modern DevOps practices.
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
+My journey into technology started during my Bachelor of Computer Applications, where I developed a deep curiosity about how applications are built, deployed, and maintained in real production environments.
 
-</div>
+To strengthen my practical knowledge, I joined **Hisan Labs Private Limited** as a **DevOps Engineer Intern**, where I gained hands-on experience with Linux Administration, AWS Cloud Services, Docker, Kubernetes, Jenkins, Terraform, GitHub Actions, Monitoring, and Infrastructure as Code.
+
+During my internship, I worked on Linux administration tasks including user management, package installation, permissions, networking basics, process management, and shell scripting.
+
+On the cloud side, I worked with AWS services such as EC2, IAM, VPC, S3, and EKS while provisioning infrastructure using Terraform.
+
+I also built CI/CD pipelines using Jenkins and GitHub Actions, containerized applications with Docker and Docker Compose, deployed applications on Kubernetes, and implemented monitoring using Prometheus, Grafana, Datadog, and AWS CloudWatch.
+
+I enjoy solving infrastructure problems, automating repetitive tasks, and building reliable deployment pipelines.
+
+Currently, I am seeking opportunities where I can contribute as a DevOps Engineer while continuing to expand my expertise in Cloud Infrastructure, Automation, Kubernetes, and Platform Engineering.
+
+---
+
+# ⚡ DevOps Mindset
+
+```bash
+#!/bin/bash
+
+while (learning)
+do
+    automate_everything
+
+    write_clean_infrastructure
+
+    monitor_every_service
+
+    improve_security
+
+    optimize_costs
+
+    document_the_process
+
+    never_stop_learning
+done
+```
+
+---
+
+# 🎯 Engineering Principles
+
+```text
+✔ Infrastructure should be reproducible.
+
+✔ Every deployment should be automated.
+
+✔ CI/CD should reduce human error.
+
+✔ Monitoring should detect issues before users do.
+
+✔ Security should be integrated into every stage.
+
+✔ Documentation is as important as code.
+
+✔ Learning never stops.
+```
+
+---
+
+# 🎯 Current Focus
+
+| Learning | Status |
+|----------|--------|
+| Linux Administration | ✅ |
+| AWS Cloud | ✅ |
+| Docker | ✅ |
+| Kubernetes | ✅ |
+| Terraform | ✅ |
+| Jenkins | ✅ |
+| GitHub Actions | ✅ |
+| Prometheus | ✅ |
+| Grafana | ✅ |
+| Datadog | ✅ |
+| CloudWatch | ✅ |
+| Azure | ✅ |
+| Google Cloud | ✅ |
+| GitOps | 🚀 Learning |
+| Helm | 🚀 Learning |
+| ArgoCD | 🚀 Learning |
+| Platform Engineering | 🚀 Learning |
 
 ---
 
 # 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="mailto:pawarshivaniofficial@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shivani-pawar01">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/YOUR_INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://github.com/Shivani-Pawar-01">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+</p>
+
+---
+
+<div align="center">
+
+## ⚙️ "Infrastructure is code. Automation is power. Learning is endless."
 
 </div>
 
 ---
-
-# 🎧 Currently Vibing To
-
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31xxxxxxxx&cover_image=true&theme=novatorem"/>
-
-</div>
-
----
-
-# 👀 Visitor Counter
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=red"/>
-
-</div>
-
----
-
-# ✨ Developer Quote
-
-<div align="center">
-
-### “Consistency beats motivation.”
-
-</div>
-
----
-
-# 🔥 Current Mission
-
-+ Learning Cloud & DevOps
-+ Building Deployment Projects
-+ Improving English Communication
-+ Preparing For IT Career
-+ Future Entrepreneur Journey
-
-
-# 🛠 Setup Instructions
-
-# Create repository with your GitHub username
-# Example:
-# username -> shivani123
-# repository -> shivani123
-
-# Add README.md
-# Paste this code
-# Replace:
-# YOUR_USERNAME
-# YOUR_LINKEDIN
-# YOUR_INSTAGRAM
-# YOUR_EMAIL
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff0000&height=120&section=footer"/>
-
-</div>
-```
