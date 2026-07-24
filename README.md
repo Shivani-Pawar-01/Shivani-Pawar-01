@@ -6,9 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=950&lines=Building+Reliable+Cloud+Infrastructure;Automating+Everything+Possible;Linux+%7C+AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Jenkins+%7C+GitHub+Actions;Learning+Every+Day+%F0%9F%9A%80"/>
 
-<br><br>
-
-## 🛠️ Tech Stack
+<br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins,bash,python,linux,git,github,grafana,prometheus&perline=15" />
