@@ -24,23 +24,6 @@
 
 ---
 
-# <img width="28" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png"> Boot Sequence
-
-```console
-$ sudo systemctl start shivani-profile.service
-
-[ OK ] Loading Developer Profile...
-[ OK ] Connecting Cloud Environment...
-[ OK ] Initializing DevOps Toolkit...
-[ OK ] Starting Infrastructure Services...
-[ OK ] Loading Engineering Portfolio...
-[ OK ] Ready.
-
-Welcome, Visitor 👋
-```
-
----
-
 # 💻 root@shivani:~$ whoami
 
 ```yaml
@@ -59,76 +42,12 @@ Experience    : DevOps Engineer Intern
 
 Current Goal  : Full-Time DevOps Engineer
 
-Focus Areas
-
-☁ Cloud Infrastructure
-
-⚙ Infrastructure Automation
-
-🚀 CI/CD Engineering
-
-🐳 Containerization
-
-☸ Kubernetes
-
-📊 Monitoring & Observability
-
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ---
 
-# 👩‍💻 About Me
 
-Hi, I'm **Shivani Pawar**, a DevOps Engineer passionate about building reliable cloud infrastructure, automating deployments, and continuously learning modern DevOps practices.
-
-My professional journey began after completing my **Bachelor of Computer Applications (BCA)**, where I developed a strong interest in cloud computing, Linux, and automation.
-
-To gain practical experience, I joined **Hisan Labs Private Limited** as a **DevOps Engineer Intern**. During my internship, I worked with Linux administration, AWS cloud services, Infrastructure as Code using Terraform, containerization with Docker, orchestration using Kubernetes, CI/CD pipelines with Jenkins and GitHub Actions, and monitoring solutions including Prometheus, Grafana, Datadog, and AWS CloudWatch.
-
-I enjoy turning manual processes into automated workflows and building deployment pipelines that are reliable, repeatable, and production-ready.
-
-Currently, I'm seeking opportunities where I can contribute as a DevOps Engineer while continuing to grow my expertise in cloud infrastructure, platform engineering, automation, and scalable systems.
-
----
-
-# 🛤 Engineering Journey
-
-```text
-┌────────────────────────────┐
-│ Bachelor of Computer       │
-│ Applications (BCA)         │
-└──────────────┬─────────────┘
-               │
-               ▼
-      Linux Administration
-               │
-               ▼
-      AWS Cloud Fundamentals
-               │
-               ▼
-      Git • GitHub • GitLab
-               │
-               ▼
-      Docker & Docker Compose
-               │
-               ▼
-      Jenkins & GitHub Actions
-               │
-               ▼
-      Terraform (IaC)
-               │
-               ▼
-      Kubernetes
-               │
-               ▼
-      Monitoring Stack
-               │
-               ▼
-      DevOps Engineer 🚀
-```
-
----
 
 # 🧠 Engineering Philosophy
 
