@@ -156,13 +156,13 @@ Current Goal  : Full-Time DevOps Engineer
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivani-Pawar-01&theme=tokyonight" width="100%"/>
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=Shivani-Pawar-01&theme=tokyonight&hide_border=false&border_radius=10&card_width=900"/>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivani-Pawar-01&theme=tokyonight" width="49%"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shivani-Pawar-01&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&count_private=true"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shivani-Pawar-01&theme=tokyonight&utcOffset=5.5" width="49%"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivani-Pawar-01&layout=compact&theme=tokyonight&hide_border=false&border_radius=10"/>
 
 </div>
 
