@@ -166,6 +166,8 @@ Current Goal  : Full-Time DevOps Engineer
 
 </div>
 
+---
+
 ## 🐍 Contribution Activity
 
 <div align="center">
