@@ -188,14 +188,6 @@ Current Goal  : Full-Time DevOps Engineer
 
 ---
 
-# 🧠 Engineering Philosophy
-
-```text
-✔ Infrastructure should be reproducible.
-
-✔ Every deployment should be automated.
-
-✔ Monitoring should provide meaningful insights.
 
 ✔ Security should be part of the pipeline.
 
@@ -206,53 +198,27 @@ Current Goal  : Full-Time DevOps Engineer
 
 ---
 
-# 🎯 Current Mission
-
-```bash
-#!/bin/bash
-
-while(true)
-do
-   learn_cloud
-
-   improve_linux
-
-   automate_everything
-
-   build_projects
-
-   contribute_on_github
-
-   keep_learning
-done
-```
-
----
-
-# 🌍 Let's Connect
-
-<p align="center">
-
-<a href="mailto:pawarshivaniofficial@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/shivani-pawar01">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Shivani-Pawar-01">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
+## 🤝 Let's Connect
 
 <div align="center">
 
-### ⭐ *"Automate with purpose. Build with reliability. Learn without limits."*
+<a href="https://www.linkedin.com/in/shivani-pawar01" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:pawarshivaniofficial@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://x.com/shivanipawar_01" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Shivani-Pawar-01" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<br><br>
+
+### 🚀 *"Build. Automate. Monitor. Improve. Repeat."*
 
 </div>
-
----
