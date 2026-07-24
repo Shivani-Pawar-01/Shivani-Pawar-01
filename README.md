@@ -65,7 +65,6 @@ Current Goal  : Full-Time DevOps Engineer
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 </p>
-
 <br>
 
 ### 🚀 CI/CD Tools
@@ -75,7 +74,6 @@ Current Goal  : Full-Time DevOps Engineer
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </p>
-
 <br>
 
 ### 🐳 Containerization
@@ -85,7 +83,6 @@ Current Goal  : Full-Time DevOps Engineer
 <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
-
 <br>
 
 ### ☸️ Orchestration
@@ -94,7 +91,6 @@ Current Goal  : Full-Time DevOps Engineer
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/kubectl-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
-
 <br>
 
 ### 🏗️ Infrastructure as Code
@@ -103,7 +99,6 @@ Current Goal  : Full-Time DevOps Engineer
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS%20CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
-
 <br>
 
 ### 🔀 Version Control
@@ -113,7 +108,6 @@ Current Goal  : Full-Time DevOps Engineer
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </p>
-
 <br>
 
 ### 📊 Monitoring & Logging
@@ -124,7 +118,6 @@ Current Goal  : Full-Time DevOps Engineer
 <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS%20CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
-
 <br>
 
 ### 💻 Scripting Languages
@@ -134,7 +127,6 @@ Current Goal  : Full-Time DevOps Engineer
 <img src="https://img.shields.io/badge/Shell%20Scripting-89E051?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
-
 <br>
 
 ### 🖥️ Operating Systems
@@ -144,7 +136,6 @@ Current Goal  : Full-Time DevOps Engineer
 <img src="https://img.shields.io/badge/Amazon%20Linux-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
-
 <br>
 
 ### 🗄️ Databases
@@ -152,7 +143,6 @@ Current Goal  : Full-Time DevOps Engineer
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
-
 <br>
 
 ### 📦 Build Tools
@@ -161,7 +151,6 @@ Current Goal  : Full-Time DevOps Engineer
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
 </p>
-
 <br>
 
 ### ✅ Code Quality
