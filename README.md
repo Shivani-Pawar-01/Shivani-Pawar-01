@@ -1,148 +1,100 @@
 <div align="center">
 
-# SHIVANI PAWAR
-
-### DevOps Engineer • Cloud Infrastructure • Automation Engineer
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Building+Reliable+Cloud+Infrastructure;Automating+Deployment+Pipelines;Linux+%7C+AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Jenkins+%7C+GitHub+Actions;Always+Learning+Modern+DevOps"/>
-
-<br>
-
-<a href="mailto:pawarshivaniofficial@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/shivani-pawar01">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Shivani-Pawar-01">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Shivani-Pawar-01&style=for-the-badge&color=red"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,22,24,30&text=SHIVANI%20PAWAR&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=DevOps%20Engineer%20•%20Cloud%20Engineer%20•%20Automation%20Enthusiast&descAlignY=60"/>
 
 </div>
-
----
-
-```text
-███████╗██╗  ██╗██╗██╗   ██╗ █████╗ ███╗   ██╗██╗
-██╔════╝██║  ██║██║██║   ██║██╔══██╗████╗  ██║██║
-███████╗███████║██║██║   ██║███████║██╔██╗ ██║██║
-╚════██║██╔══██║██║╚██╗ ██╔╝██╔══██║██║╚██╗██║██║
-███████║██║  ██║██║ ╚████╔╝ ██║  ██║██║ ╚████║██║
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝
-```
 
 <div align="center">
 
-# 「 Building Reliable Infrastructure Through Automation 」
+# 👋 Hello, I'm Shivani Pawar
 
-*"Turning manual processes into scalable, automated, and production-ready systems."*
+### DevOps Engineer • Cloud Engineer • Infrastructure Automation • CI/CD • Kubernetes
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1200&center=true&vCenter=true&width=950&lines=Welcome+to+my+GitHub+Profile;Building+Reliable+Cloud+Infrastructure;Automating+Everything+Possible;Linux+%7C+AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Jenkins+%7C+GitHub+Actions;Always+Learning+Something+New+🚀"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Shivani-Pawar-01&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Shivani-Pawar-01?logo=github&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/Shivani-Pawar-01?affiliations=OWNER&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🖥️ SYSTEM BOOT
+# 💻 Terminal
 
 ```console
-root@portfolio:~$ ./initialize.sh
+shivani@devops:~$ whoami
 
-[ OK ] Loading Developer Profile...
-[ OK ] Connecting AWS Cloud...
-[ OK ] Initializing Kubernetes Cluster...
-[ OK ] Starting CI/CD Services...
-[ OK ] Loading Monitoring Stack...
-[ OK ] Authenticating GitHub Profile...
-[ OK ] Ready.
+Name        : Shivani Pawar
 
-Welcome 👋
+Role        : DevOps Engineer
+
+Location    : Pune, Maharashtra, India
+
+Education   : Bachelor of Computer Applications
+
+Current     : DevOps Engineer Intern @ Hisan Labs Pvt. Ltd.
+
+Focus       : Cloud Infrastructure
+              Kubernetes
+              Automation
+              Infrastructure as Code
+              CI/CD Pipelines
+
+Status      : Looking for Full-Time DevOps Engineer Opportunities
+
+Mission     : Build scalable infrastructure that is automated,
+              secure, reliable and production-ready.
 ```
 
 ---
 
-# ⚡ SYSTEM PROFILE
+# 👩 About Me
 
 ```yaml
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+name: Shivani Pawar
 
-Name:
-  Shivani Pawar
-
-Role:
+role:
   DevOps Engineer
 
-Location:
-  Pune, Maharashtra, India
+education:
+  Bachelor of Computer Applications
 
-Current Position:
+experience:
   DevOps Engineer Intern
   Hisan Labs Private Limited
 
-Education:
-  Bachelor of Computer Applications
+passion:
+  - Cloud Computing
+  - DevOps
+  - Automation
+  - Infrastructure Engineering
 
-Career Goal:
-  Cloud & DevOps Engineer
+currently_working_on:
+  - Kubernetes
+  - AWS Infrastructure
+  - CI/CD Automation
+  - Docker
+  - Terraform
+  - Monitoring
 
-Focus:
+goal:
+  Become a highly skilled Cloud & DevOps Engineer capable
+  of designing scalable, secure and production-ready systems.
 
-  ✔ Cloud Infrastructure
-
-  ✔ Infrastructure as Code
-
-  ✔ Kubernetes
-
-  ✔ Docker
-
-  ✔ CI/CD
-
-  ✔ Automation
-
-  ✔ Monitoring
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+motto:
+  "Automate what can be automated.
+   Monitor what matters.
+   Learn every single day."
 ```
 
 ---
 
-# 👩‍💻 WHO AM I?
-
-Instead of simply deploying applications, I enjoy understanding **how systems work behind the scenes**—from provisioning infrastructure to automating deployments and monitoring production environments.
-
-My journey into DevOps began with **Linux**, where I learned system administration, shell scripting, and server management. As I explored further, I discovered cloud computing and started building infrastructure on **AWS**, automating deployments with **Terraform**, containerizing applications using **Docker**, orchestrating workloads with **Kubernetes**, and creating CI/CD pipelines using **Jenkins** and **GitHub Actions**.
-
-During my internship at **Hisan Labs Private Limited**, I worked with technologies such as Linux, AWS, Docker, Kubernetes, Terraform, Jenkins, Git, GitHub, GitLab, Prometheus, Grafana, Datadog, CloudWatch, SonarQube, Bash, and Python. This hands-on experience strengthened my understanding of DevOps practices and cloud-native workflows.
-
-I believe that great infrastructure is not only functional—it should be **automated, scalable, secure, and observable**.
-
----
-
-# 🎯 CURRENT OBJECTIVE
-
-```text
-I'm actively seeking opportunities as a DevOps Engineer where I can:
-
-✔ Design cloud infrastructure
-
-✔ Automate deployment pipelines
-
-✔ Manage containerized applications
-
-✔ Implement Infrastructure as Code
-
-✔ Improve monitoring and observability
-
-✔ Continuously learn modern cloud technologies
-```
-
----
-
-# 🚀 MY JOURNEY
+# 🚀 My Journey
 
 ```text
 BCA Graduate
@@ -151,10 +103,7 @@ BCA Graduate
 Linux Administration
       │
       ▼
-Cloud Computing
-      │
-      ▼
-AWS
+AWS Cloud
       │
       ▼
 Git & GitHub
@@ -163,16 +112,16 @@ Git & GitHub
 Docker
       │
       ▼
-Terraform
+CI/CD Automation
       │
       ▼
-Jenkins
+Terraform
       │
       ▼
 Kubernetes
       │
       ▼
-Monitoring
+Monitoring & Observability
       │
       ▼
 DevOps Engineer
@@ -180,712 +129,77 @@ DevOps Engineer
 
 ---
 
-<div align="center">
+# 📖 My Story
 
-### "Build. Automate. Monitor. Improve."
+I am **Shivani Pawar**, a passionate DevOps Engineer with a strong interest in Cloud Computing, Infrastructure Automation, and Modern DevOps practices.
 
-</div>
+My journey into technology started during my Bachelor of Computer Applications, where I developed a deep curiosity about how applications are built, deployed, and maintained in real production environments.
 
----
+To strengthen my practical knowledge, I joined **Hisan Labs Private Limited** as a **DevOps Engineer Intern**, where I gained hands-on experience with Linux Administration, AWS Cloud Services, Docker, Kubernetes, Jenkins, Terraform, GitHub Actions, Monitoring, and Infrastructure as Code.
 
+During my internship, I worked on Linux administration tasks including user management, package installation, permissions, networking basics, process management, and shell scripting.
 
-<!-- ======================================================= -->
-<!--                CHAPTER 2 : TECH ARSENAL                 -->
-<!-- ======================================================= -->
+On the cloud side, I worked with AWS services such as EC2, IAM, VPC, S3, and EKS while provisioning infrastructure using Terraform.
 
-# ⚙ TECH ARSENAL
+I also built CI/CD pipelines using Jenkins and GitHub Actions, containerized applications with Docker and Docker Compose, deployed applications on Kubernetes, and implemented monitoring using Prometheus, Grafana, Datadog, and AWS CloudWatch.
 
-<div align="center">
+I enjoy solving infrastructure problems, automating repetitive tasks, and building reliable deployment pipelines.
 
-### Technologies I use to design, automate and manage modern cloud infrastructure.
-
-</div>
+Currently, I am seeking opportunities where I can contribute as a DevOps Engineer while continuing to expand my expertise in Cloud Infrastructure, Automation, Kubernetes, and Platform Engineering.
 
 ---
 
-# ☁ CLOUD COMMAND CENTER
-
-```text
-╔════════════════════════════════════════════════════════════════════╗
-║                    CLOUD COMMAND CENTER                           ║
-╠════════════════════════════════════════════════════════════════════╣
-║                                                                    ║
-║   AWS              ████████████████████████  Expert               ║
-║                                                                    ║
-║   Azure           ████████████████          Intermediate          ║
-║                                                                    ║
-║   Google Cloud    ███████████████           Intermediate          ║
-║                                                                    ║
-╚════════════════════════════════════════════════════════════════════╝
-```
-
----
-
-# 🐧 LINUX ENGINEERING
+# ⚡ DevOps Mindset
 
 ```bash
-root@production:~#
+#!/bin/bash
 
-✓ User Administration
+while (learning)
+do
+    automate_everything
 
-✓ Group Administration
+    write_clean_infrastructure
 
-✓ Package Management
+    monitor_every_service
 
-✓ Process Management
+    improve_security
 
-✓ File Permissions
+    optimize_costs
 
-✓ SSH
+    document_the_process
 
-✓ Cron Jobs
-
-✓ Networking
-
-✓ Shell Scripting
-
-✓ Service Management
-
-✓ System Monitoring
+    never_stop_learning
+done
 ```
 
 ---
 
-# ☁ CLOUD SERVICES
-
-<div align="center">
-
-| AWS | Azure | GCP |
-|:---:|:------:|:---:|
-| EC2 | Virtual Machines | Compute Engine |
-| IAM | Identity | IAM |
-| S3 | Blob Storage | Cloud Storage |
-| VPC | Virtual Network | VPC |
-| EKS | AKS (Basics) | GKE (Basics) |
-| CloudWatch | Azure Monitor | Cloud Monitoring |
-
-</div>
-
----
-
-# 🐳 CONTAINER ECOSYSTEM
+# 🎯 Engineering Principles
 
 ```text
-Docker Engine
+✔ Infrastructure should be reproducible.
 
-│
+✔ Every deployment should be automated.
 
-├── Docker Images
+✔ CI/CD should reduce human error.
 
-├── Docker Containers
+✔ Monitoring should detect issues before users do.
 
-├── Docker Networks
+✔ Security should be integrated into every stage.
 
-├── Docker Volumes
+✔ Documentation is as important as code.
 
-├── Docker Compose
-
-└── Docker Hub
+✔ Learning never stops.
 ```
 
 ---
 
-# ☸ KUBERNETES STACK
+# 🎯 Current Focus
 
-```text
-Kubernetes Cluster
-
-│
-
-├── Pods
-
-├── ReplicaSets
-
-├── Deployments
-
-├── Services
-
-├── ConfigMaps
-
-├── Secrets
-
-├── Ingress
-
-└── Namespaces
-```
-
----
-
-# 🚀 CI / CD ECOSYSTEM
-
-```text
-Developer
-
-↓
-
-Git
-
-↓
-
-GitHub
-
-↓
-
-GitHub Actions
-
-↓
-
-Jenkins
-
-↓
-
-SonarQube
-
-↓
-
-Docker
-
-↓
-
-Docker Hub
-
-↓
-
-Kubernetes
-
-↓
-
-Production
-```
-
----
-
-# ⚙ INFRASTRUCTURE AS CODE
-
-```text
-Terraform
-
-├── Providers
-
-├── Resources
-
-├── Variables
-
-├── Outputs
-
-├── Modules
-
-├── State Files
-
-└── Remote Backend
-```
-
----
-
-# 📊 OBSERVABILITY STACK
-
-| Tool | Purpose |
-|------|---------|
-| Prometheus | Metrics Collection |
-| Grafana | Visualization |
-| Datadog | Monitoring & Alerting |
-| CloudWatch | AWS Monitoring |
-
----
-
-# 🔀 VERSION CONTROL
-
-```text
-Git
-
-├── Clone
-
-├── Branch
-
-├── Commit
-
-├── Push
-
-├── Pull
-
-├── Merge
-
-└── Pull Requests
-```
-
----
-
-# 💻 SCRIPTING
-
-```python
-languages = {
-
-"Shell Scripting":"Automation",
-
-"Bash":"Linux Administration",
-
-"Python":"Automation & Utility Scripts"
-
-}
-```
-
----
-
-# 🛠 BUILD TOOLS
-
-```text
-Maven
-
-npm
-
-GitHub Actions
-
-Jenkins
-
-SonarQube
-```
-
----
-
-# 🗄 DATABASE
-
-```text
-MySQL
-
-✓ Database Management
-
-✓ CRUD Operations
-
-✓ SQL Queries
-
-✓ Backend Connectivity
-```
-
----
-
-# 📈 MY DEVOPS ECOSYSTEM
-
-```text
-                    Linux
-
-                       │
-
-        ┌──────────────┼──────────────┐
-
-        │              │              │
-
-      Docker       Terraform         Git
-
-        │              │              │
-
-        └──────────────┼──────────────┘
-
-                       │
-
-                  Kubernetes
-
-                       │
-
-                    Jenkins
-
-                       │
-
-               GitHub Actions
-
-                       │
-
-                  AWS Cloud
-
-                       │
-
-      Prometheus • Grafana • Datadog
-
-                       │
-
-                 Production Systems
-```
-
----
-
-<div align="center">
-
-## 💡 "Technology is only powerful when it solves real problems through automation."
-
-</div>
-
-<!-- ========================================================= -->
-<!--           CHAPTER 3 : DEPLOYMENT ARCHIVES                 -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-# 🚀 DEPLOYMENT ARCHIVES
-
-### Real-world DevOps implementations focused on automation, scalability, and cloud infrastructure.
-
-</div>
-
----
-
-# ⚡ FEATURED PROJECTS
-
-> Every project below represents practical experience with cloud infrastructure, containerization, CI/CD, Infrastructure as Code, and production deployment concepts.
-
----
-
-# 🚀 PROJECT 01
-
-# Flight Reservation Microservices Platform
-
-<img align="right" width="120" src="https://skillicons.dev/icons?i=kubernetes"/>
-
-### 🏗 Architecture
-
-```text
-                 Users
-                   │
-                   ▼
-             API Gateway
-                   │
-      ┌────────────┼────────────┐
-      │            │            │
- Authentication  Booking     Payment
-      │            │            │
-      ├────────────┼────────────┤
-      │       Notification      │
-      └────────────┼────────────┘
-                   │
-              Kubernetes
-                   │
-                Docker
-                   │
-                 Linux
-```
-
----
-
-## 📌 Project Summary
-
-A production-inspired microservices application deployed using Docker and Kubernetes. Each service was independently containerized, allowing modular deployments, scalability, and simplified maintenance.
-
----
-
-## ⚙ Responsibilities
-
-- Containerized multiple microservices using Docker.
-- Created optimized multi-stage Dockerfiles.
-- Deployed workloads using Kubernetes Deployments.
-- Configured Services for internal and external communication.
-- Managed application configuration with ConfigMaps.
-- Implemented rolling updates for zero-downtime deployments.
-- Configured Horizontal Pod Autoscaler (HPA).
-- Managed source code using Git and GitHub.
-
----
-
-## 🛠 Tech Stack
-
-| Category | Technologies |
-|----------|--------------|
-| Containers | Docker |
-| Orchestration | Kubernetes |
-| Version Control | Git, GitHub |
-| Platform | Linux |
-| Configuration | YAML |
-
----
-
-## 🎯 Skills Demonstrated
-
-```text
-✔ Docker
-
-✔ Kubernetes
-
-✔ YAML
-
-✔ Scaling
-
-✔ Service Discovery
-
-✔ Rolling Updates
-
-✔ Microservices
-
-✔ Container Networking
-```
-
----
-
-# 🚀 PROJECT 02
-
-# EASY CRUD – 3-Tier Application
-
-<img align="right" width="120" src="https://skillicons.dev/icons?i=docker"/>
-
-### 🏗 Architecture
-
-```text
-              Internet
-                  │
-                  ▼
-          React Frontend
-                  │
-                  ▼
-          Node.js Backend
-                  │
-                  ▼
-           MySQL Database
-```
-
----
-
-## 📌 Project Summary
-
-A production-style three-tier web application deployed using Docker Compose, demonstrating complete containerization of frontend, backend, and database services.
-
----
-
-## ⚙ Responsibilities
-
-- Containerized frontend, backend, and database.
-- Configured Docker Compose for orchestration.
-- Created isolated Docker bridge networks.
-- Configured persistent Docker volumes.
-- Managed environment variables securely.
-- Connected backend APIs with MySQL.
-- Deployed the application on Ubuntu Linux.
-- Managed project using Git and GitHub.
-
----
-
-## 🛠 Tech Stack
-
-| Category | Technologies |
-|----------|--------------|
-| Frontend | React |
-| Backend | Node.js |
-| Database | MySQL |
-| Containers | Docker |
-| Orchestration | Docker Compose |
-| Platform | Linux |
-
----
-
-## 🎯 Skills Demonstrated
-
-```text
-✔ Docker Compose
-
-✔ Linux Administration
-
-✔ MySQL
-
-✔ Git
-
-✔ Networking
-
-✔ Persistent Volumes
-
-✔ Environment Variables
-
-✔ Containerized Deployment
-```
-
----
-
-# ☁ CLOUD DEPLOYMENT EXPERIENCE
-
-During my internship, I worked with AWS services to provision and manage cloud infrastructure while following Infrastructure as Code practices.
-
-### AWS Services
-
-```text
-EC2           ✔ Compute Infrastructure
-
-S3            ✔ Object Storage
-
-IAM           ✔ Identity & Access Management
-
-VPC           ✔ Networking
-
-EKS           ✔ Kubernetes Cluster
-
-CloudWatch    ✔ Monitoring & Logging
-```
-
----
-
-# ⚙ INFRASTRUCTURE AS CODE
-
-```text
-Terraform Workflow
-
-Write Configuration
-
-        │
-
-terraform init
-
-        │
-
-terraform plan
-
-        │
-
-terraform apply
-
-        │
-
-AWS Infrastructure
-
-        │
-
-Production Environment
-```
-
----
-
-# 🔄 CI/CD PIPELINE
-
-```text
-Developer
-
-    │
-
-Git Push
-
-    │
-
-GitHub Repository
-
-    │
-
-GitHub Actions
-
-    │
-
-Jenkins Pipeline
-
-    │
-
-SonarQube Analysis
-
-    │
-
-Docker Image Build
-
-    │
-
-Docker Registry
-
-    │
-
-Kubernetes Deployment
-
-    │
-
-Production
-```
-
----
-
-# 📊 MONITORING & OBSERVABILITY
-
-| Tool | Purpose |
-|------|---------|
-| Prometheus | Metrics Collection |
-| Grafana | Dashboard Visualization |
-| Datadog | Monitoring & Alerting |
-| AWS CloudWatch | AWS Metrics & Logs |
-
----
-
-# 🏆 KEY TAKEAWAYS
-
-```text
-✔ Production-style Deployments
-
-✔ Cloud Infrastructure
-
-✔ Infrastructure as Code
-
-✔ Kubernetes Orchestration
-
-✔ Docker Containerization
-
-✔ CI/CD Automation
-
-✔ Monitoring & Observability
-
-✔ Linux Administration
-
-✔ Version Control
-
-✔ Team Collaboration
-```
-
----
-
-<div align="center">
-
-## 🚀 "Every deployment improved my understanding of building reliable, automated, and scalable systems."
-
-</div>
-
-
-<!-- ========================================================= -->
-<!--      CHAPTER 4 : ENGINEERING DASHBOARD & FINALE          -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-# 📊 ENGINEERING DASHBOARD
-
-### Continuous Learning • Open Source • Cloud • Automation
-
-</div>
-
----
-
-# 📈 GitHub Statistics
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shivani-Pawar-01&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivani-Pawar-01&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
-# 📊 Most Used Languages
-
-<div align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivani-Pawar-01&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shivani-Pawar-01&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true"/>
-
-</div>
-
----
-
-# 📅 2026 Learning Roadmap
-
-| Technology | Status |
-|------------|--------|
+| Learning | Status |
+|----------|--------|
 | Linux Administration | ✅ |
-| AWS | ✅ |
+| AWS Cloud | ✅ |
 | Docker | ✅ |
 | Kubernetes | ✅ |
 | Terraform | ✅ |
@@ -894,113 +208,19 @@ Production
 | Prometheus | ✅ |
 | Grafana | ✅ |
 | Datadog | ✅ |
-| Azure | 🔄 Improving |
-| Google Cloud | 🔄 Improving |
-| Helm | 📖 Learning |
-| ArgoCD | 📖 Learning |
-| GitOps | 📖 Learning |
-| Ansible | 🎯 Next Goal |
-| CKA Certification | 🎯 Planned |
+| CloudWatch | ✅ |
+| Azure | ✅ |
+| Google Cloud | ✅ |
+| GitOps | 🚀 Learning |
+| Helm | 🚀 Learning |
+| ArgoCD | 🚀 Learning |
+| Platform Engineering | 🚀 Learning |
 
 ---
 
-# 🎯 Career Vision
+# 🌐 Connect With Me
 
-```text
-Current Position
-
-DevOps Engineer Intern
-
-↓
-
-DevOps Engineer
-
-↓
-
-Cloud Engineer
-
-↓
-
-Platform Engineer
-
-↓
-
-Senior DevOps Engineer
-
-↓
-
-Cloud Architect
-```
-
----
-
-# 📜 Core Principles
-
-```text
-✔ Automate repetitive tasks
-
-✔ Build reproducible infrastructure
-
-✔ Design scalable systems
-
-✔ Monitor everything important
-
-✔ Keep learning continuously
-
-✔ Document every deployment
-
-✔ Security is everyone's responsibility
-```
-
----
-
-# 🌱 Currently Exploring
-
-```yaml
-Learning:
-
-- Helm
-- GitOps
-- ArgoCD
-- Kubernetes Best Practices
-- Platform Engineering
-- Cloud Security
-- CI/CD Optimization
-```
-
----
-
-# 🎓 Certifications & Training
-
-```text
-✔ DevOps Internship
-✔ Linux
-✔ AWS
-✔ Docker
-✔ Kubernetes
-✔ Terraform
-✔ Jenkins
-✔ GitHub Actions
-✔ GitLab CI
-✔ SonarQube
-✔ Datadog
-✔ Prometheus
-✔ Grafana
-✔ Shell Scripting
-✔ Python
-```
-
----
-
-# 💬 Favorite DevOps Quote
-
-> **"Automate what is repetitive. Monitor what is critical. Continuously improve what is possible."**
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
+<p align="center">
 
 <a href="mailto:pawarshivaniofficial@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -1014,24 +234,14 @@ Learning:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-## ⭐ Thank you for visiting my profile!
-
-*"Always building. Always automating. Always learning."*
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=12,20,22,24,30"/>
+## ⚙️ "Infrastructure is code. Automation is power. Learning is endless."
 
 </div>
 
-<!-- ========================================================= -->
-<!--                    END OF README                         -->
-<!-- ========================================================= -->
-
-
+---
