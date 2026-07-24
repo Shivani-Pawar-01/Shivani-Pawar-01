@@ -22,23 +22,6 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
 </p>
-
-<a href="mailto:pawarshivaniofficial@gmail.com">
-<img src="https://img.shields.io/badge/Email-pawarshivaniofficial%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/shivani-pawar01">
-<img src="https://img.shields.io/badge/LinkedIn-Shivani%20Pawar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Shivani-Pawar-01">
-<img src="https://img.shields.io/badge/GitHub-Shivani--Pawar--01-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Shivani-Pawar-01&style=for-the-badge&color=blueviolet"/>
-
 </div>
 
 ---
