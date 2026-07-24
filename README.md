@@ -188,16 +188,6 @@ Current Goal  : Full-Time DevOps Engineer
 
 ---
 
-
-✔ Security should be part of the pipeline.
-
-✔ Documentation is engineering.
-
-✔ Continuous learning creates continuous improvement.
-```
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
