@@ -8,6 +8,21 @@
 
 <br><br>
 
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,ansible,jenkins,bash,python,linux,git,github,grafana,prometheus&perline=15" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+</p>
+
 <a href="mailto:pawarshivaniofficial@gmail.com">
 <img src="https://img.shields.io/badge/Email-pawarshivaniofficial%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
